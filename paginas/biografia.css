@@ -1,0 +1,213 @@
+* {
+    margin: 0;
+    padding: 0;
+ 
+  }
+ 
+  .menu {
+    background: black;
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      width: 100%;
+      font-size: 0;
+    }
+    nav a {
+      text-decoration: none;
+      color: inherit;
+      font-size: 20px;
+    }
+    nav li {
+      display: inline-block;
+      width: 13%;
+      padding: 4px 10px;
+      background-color: #000000;
+      border: 1px solid #000000;
+      text-align: center;
+      color: #ffffff;
+    }
+    nav li:hover {
+      background-color: black;
+      color: grey;
+    }
+  }
+  
+  .amlo {
+    background-image: url("https://cdn.glitch.global/adbebb0c-8b63-4b86-a245-9dae2af0ce98/estudiantes.jpg?v=1706584799232");
+  }
+
+
+  .ii{
+  
+    font-family: cursive ;
+    font-size:20px ;
+}
+  
+  .a{
+    background-color: rgb(156, 53, 53);
+    font-family: cursive ;
+    font-size:20px ;
+      
+    }
+     
+  .b{
+    background-color: rgb(156, 53, 53);
+    font-family: cursive ;
+    font-size:20px ;
+     
+    }
+     
+  .c{
+    background-color: rgb(156, 53, 53);
+    font-family: cursive ;
+    font-size:20px ;
+      
+    }
+     
+  .d{
+    background-color: rgb(156, 53, 53);
+    font-family: cursive ;
+    font-size:20px ;
+      
+    }
+     
+  .e{
+    background-color: rgb(156, 53, 53);
+    font-family: cursive ;
+    font-size:20px ;
+      
+    }
+     
+  .f{
+  background-color: rgb(156, 53, 53);
+    font-family: cursive ;
+    font-size:20px ;
+     
+    }
+     
+  .g{
+    background-color: rgb(156, 53, 53);
+    font-family: cursive ;
+    font-size:20px ;
+    
+    }
+     
+  .h{
+    background-color: rgb(156, 53, 53);
+    font-family: cursive ;
+    font-size:20px ;
+     
+    }
+     
+  .i{
+    background-color: rgb(156, 53, 53);
+    font-family: cursive ;
+    font-size:20px ;
+     
+    }
+     
+  .j{
+    background-color: rgb(156, 53, 53);
+    font-family: cursive ;
+    font-size:20px ;
+    
+    }
+
+    .k{
+      background-color: rgb(156, 53, 53);
+      font-family: cursive ;
+      font-size:20px ;
+      
+      }
+
+
+      .aa{
+        background-color: rgb(178, 190, 65);
+        display: flex;
+        font-size: 20px;
+        font-family: Arial;
+        
+         }
+         .bb{
+          background-color: rgb(178, 190, 65);
+
+          display: flex;
+          font-size: 20px;
+          font-family: Arial;
+          
+           }
+  
+
+           .cc{
+            background-color: rgb(178, 190, 65);
+
+            display: flex;
+            font-size: 20px;
+            font-family: Arial;
+            
+             }
+.dd{
+  display: flex;
+  font-size: 20px;
+  background-color: rgb(178, 190, 65);
+
+  font-family: Arial;
+}  
+.ee{
+  display: flex;
+  font-size: 20px;
+  background-color: rgb(178, 190, 65);
+
+  font-family: Arial;
+
+}  
+.ff{
+  display: flex;
+  font-size: 20px;
+  background-color: rgb(178, 190, 65);
+
+  font-family: Arial;
+}
+.gg{
+  display: flex;
+  font-size: 20px;
+  background-color: rgb(178, 190, 65);
+
+  font-family: Arial;
+}
+.hh{
+  display: flex;
+  font-size: 20px;
+  background-color: rgb(178, 190, 65);
+
+  font-family: Arial;
+}
+
+.jj{
+  display: flex;
+  font-size: 20px;
+  background-color: rgb(178, 190, 65);
+
+  font-family: Arial;
+}
+.kk{
+  display: flex;
+  font-size: 20px;
+  background-color: rgb(178, 190, 65);
+
+  font-family: Arial;
+}
+.ll{
+  display: flex;
+  background-color: rgb(178, 190, 65);
+
+  font-size: 20px;
+  font-family: Arial;
+}
+
+
+    
+   .er{
+    background-color: rgb(36, 35, 35);color: white;
+   } 
